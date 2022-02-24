@@ -1,6 +1,8 @@
 # qttabbar-dark-mode-skin
  A QTTabBar Dark Mode Skin. No more, no less.
  
+ ![image](https://user-images.githubusercontent.com/77287361/155581021-7c4c2f4b-4b69-4f9d-928d-fef74712dacd.png)
+ 
 # How to apply the skin
 It's simple!
 
