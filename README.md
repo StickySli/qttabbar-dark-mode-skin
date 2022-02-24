@@ -8,6 +8,8 @@ It's simple!
 2. Edit the `.reg` file and modify the value of the key `"TabImageFile"` with `"<path-to-your-folder>"`. Make sure to escape every backslash character like in the default path.
 3. Run the `.reg` file to apply the changes to QTTabBar. You might need to restart  your computer for the changes to take effect. Otherwise, check modify the settings accordingly to the image below
 
+![appearance](https://user-images.githubusercontent.com/77287361/155575912-f675d94d-175d-4b31-a3f5-45e80f8c1f2a.png)
+
 # Changing the gradient of the tab
 I have provided the PSD (Photoshop) files so you can change the gradients of the selected tabs. Otherwise, you can modify the appearance of the tabs to your hearts content with your favourite image editting software.
     
