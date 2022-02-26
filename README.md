@@ -1,9 +1,11 @@
-# qttabbar-dark-mode-skin
- A QTTabBar Dark Mode Skin. No more, no less.
+# A QTTabBar Dark Mode Skin
+No more, no less. Based of Windows 11 dark mode colors. Includes PSD files to change or disable the gradient of the active & hovered tabs.
  
- ![image](https://user-images.githubusercontent.com/77287361/155581021-7c4c2f4b-4b69-4f9d-928d-fef74712dacd.png)
+ ![image](https://user-images.githubusercontent.com/77287361/155851685-1eb15abf-fc69-4dcd-bc7f-5954e8e59355.png)
  
-# How to apply the skin
+A variant with tab separators is included.
+ 
+# How to apply the skin?
 It's simple!
 
 1. Download this git repository and place it somewhere safe. If you have copied it to your C:\ folder, great! You can skip to step 3. Otherwise, copy the path of the repository.
@@ -12,6 +14,4 @@ It's simple!
 
 ![appearance](https://user-images.githubusercontent.com/77287361/155575912-f675d94d-175d-4b31-a3f5-45e80f8c1f2a.png)
 
-# Changing the gradient of the tab
-I have provided the PSD (Photoshop) files so you can change the gradients of the selected tabs. Otherwise, you can modify the appearance of the tabs to your hearts content with your favourite image editting software.
     
