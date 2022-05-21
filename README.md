@@ -1,4 +1,4 @@
-# A QTTabBar Dark Mode Skin
+# A [QTTabBar](https://github.com/indiff/qttabbar) Dark Mode Skin
 No more, no less. Based of Windows 11 dark mode colors. Includes PSD files to change or disable the gradient of the active & hovered tabs.
  
  ![image](https://user-images.githubusercontent.com/77287361/155851685-1eb15abf-fc69-4dcd-bc7f-5954e8e59355.png)
