@@ -12,6 +12,6 @@ It's simple!
 2. Edit the `.reg` file and modify the value of the key `"TabImageFile"` with `"<path-to-your-folder>"`. Make sure to escape every backslash character like in the default path.
 3. Run the `.reg` file to apply the changes to QTTabBar. You might need to restart  your computer for the changes to take effect. Otherwise, check modify the settings accordingly to the image below
 
-![appearance](https://user-images.githubusercontent.com/77287361/155575912-f675d94d-175d-4b31-a3f5-45e80f8c1f2a.png)
+![appearance](https://user-images.githubusercontent.com/77287361/178006582-be1ae58c-4c7d-48b0-aca2-54f04921e913.png)
 
-    
+For the toolbar background, choose the provided image, otherwise, use the solid color RGB(25,25,25) which has the closest color aproximation to Windows's dark mode. 
