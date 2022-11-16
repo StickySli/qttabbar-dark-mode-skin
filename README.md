@@ -5,7 +5,7 @@ No more, no less. Based of Windows 11 dark mode colors. Includes PSD files to ch
  
 A variant with tab separators is included.
  
-# How to apply the skin?
+## How to apply the skin?
 It's simple!
 
 1. Download this git repository and place it somewhere safe. If you have copied it to your C:\ folder, great! You can skip to step 3. Otherwise, copy the path of the repository.
@@ -15,3 +15,8 @@ It's simple!
 ![appearance](https://user-images.githubusercontent.com/77287361/178006582-be1ae58c-4c7d-48b0-aca2-54f04921e913.png)
 
 For the toolbar background, choose the provided image, otherwise, use the solid color RGB(25,25,25) which has the closest color aproximation to Windows's dark mode. 
+
+## Reported bugs
+I have reported a bug in [v1.5.5-beta.8](https://github.com/indiff/qttabbar/releases/tag/v1.5.5-beta.8) which you can see in [issue 285](https://github.com/indiff/qttabbar/issues/285) from indiff's QTTabBar project. The issue is regarding the skin applicator. If you have any troubles with the skin not working, i.e. being invisible, use an earlier version of QTTabBar.
+
+If you find any bugs, please report them to the original project, not me. If you have any suggestions, feel free to ask them or try to implement them by yourself!
