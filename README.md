@@ -17,6 +17,6 @@ It's simple!
 For the toolbar background, choose the provided image, otherwise, use the solid color RGB(25,25,25) which has the closest color aproximation to Windows's dark mode. 
 
 ## Reported bugs
-I have reported a bug in [v1.5.5-beta.8](https://github.com/indiff/qttabbar/releases/tag/v1.5.5-beta.8) which you can see in [issue 285](https://github.com/indiff/qttabbar/issues/285) from indiff's QTTabBar project. The issue is regarding the skin applicator. If you have any troubles with the skin not working, i.e. being invisible, use an earlier version of QTTabBar.
+I have reported a bug in [v1.5.5-beta.8](https://github.com/indiff/qttabbar/releases/tag/v1.5.5-beta.8) which you can see in [issue 285](https://github.com/indiff/qttabbar/issues/285) from indiff's QTTabBar project. The issue is regarding the skin applicator. If you have any troubles with the skin not working, i.e. being invisible, use an earlier version of QTTabBar, specifically **v1.5.5-beta.6** which I have reported it is working.
 
 If you find any bugs, please report them to the original project, not me. If you have any suggestions, feel free to ask them or try to implement them by yourself!
